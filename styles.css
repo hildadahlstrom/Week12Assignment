@@ -1,0 +1,39 @@
+body{
+    font-family:'Impact',' Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    background:#7D8053;
+    color:#42302a;
+}
+
+.new-recipe-header{
+    color:#7a361f;
+}
+
+.delete-button,.remove-button{
+    background-color: #7D0C0C;
+    color:white;
+    align-content: start;
+    
+}
+.delete-button:hover,.remove-button:hover{
+    background-color:#5f0a0a;
+    color:white;
+}
+
+
+.add-ingredient,.add-instruction,.new-recipe-button,.new-recipe-button:after,.add-ingredient:after,.add-instruction:after{
+    background-color:#664B41;
+    color:white;
+}
+.add-ingredient:hover,.add-instruction:hover,.new-recipe-button:hover{
+    background-color:#4d3830;
+    color:white;
+}
+
+.ing-container,.inst-container{
+    border:#211F1F;
+    border-width:2px;
+}
+
+.recipe-card{
+    background:#7D7662;
+}
